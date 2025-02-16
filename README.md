@@ -24,3 +24,21 @@ This project is a complete React Todo App that connects to an external API to ma
 ## Link to the page:
 
 [TODOS LINK](https://AndreaTkachuk.github.io/Todos/)
+
+## For run the Project Locally follow these steps:
+
+**Clone the repository:**
+
+    git clone https://github.com/AndreaTkachuk/Todos.git
+
+**Navigate to the project directory:**
+
+    cd Todos
+
+**Install the dependencies:**
+
+    npm install
+
+**Start the development server:**
+
+    npm start
