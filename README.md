@@ -19,7 +19,6 @@ This project is a complete React Todo App that connects to an external API to ma
 - **TypeScript:** Provides type safety and enhanced development experience.
 - **React Context:** For state management. To prevent props drilling.
 - **SASS:** For advanced styling
-- **LocalStorage:** Persists todos data to ensure tasks are retained across browser sessions.
 - **Fetch API:** For making API requests to manage todos.
 
 ## Link to the page:
